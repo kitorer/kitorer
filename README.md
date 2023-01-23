@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Daydream](https://github.com/poop-team/daydream)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Unity**
 
 - ⚡ Fun fact **Monster energy makes me sleepy**
 
